@@ -1,0 +1,161 @@
+[33mcommit 40d312cbc41d817cb9c2ab30a560e0a4da2b601d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: orajov <vac.krivan@gmail.com>
+Date:   Thu Apr 3 18:01:22 2025 +0200
+
+    manual save
+
+[1mdiff --git a/DIM-1/data/raids.dat b/DIM-1/data/raids.dat[m
+[1mindex 351401a..899b4a4 100644[m
+Binary files a/DIM-1/data/raids.dat and b/DIM-1/data/raids.dat differ
+[1mdiff --git a/DIM-1/entities/r.-1.-1.mca b/DIM-1/entities/r.-1.-1.mca[m
+[1mindex 804d012..f2420ad 100644[m
+Binary files a/DIM-1/entities/r.-1.-1.mca and b/DIM-1/entities/r.-1.-1.mca differ
+[1mdiff --git a/DIM-1/entities/r.-1.0.mca b/DIM-1/entities/r.-1.0.mca[m
+[1mindex 4dba0ec..1d3d886 100644[m
+Binary files a/DIM-1/entities/r.-1.0.mca and b/DIM-1/entities/r.-1.0.mca differ
+[1mdiff --git a/DIM-1/entities/r.0.-1.mca b/DIM-1/entities/r.0.-1.mca[m
+[1mindex fddbc3b..4c54353 100644[m
+Binary files a/DIM-1/entities/r.0.-1.mca and b/DIM-1/entities/r.0.-1.mca differ
+[1mdiff --git a/DIM-1/entities/r.0.0.mca b/DIM-1/entities/r.0.0.mca[m
+[1mindex 52a125f..dec5497 100644[m
+Binary files a/DIM-1/entities/r.0.0.mca and b/DIM-1/entities/r.0.0.mca differ
+[1mdiff --git a/DIM-1/entities/r.1.-1.mca b/DIM-1/entities/r.1.-1.mca[m
+[1mindex 762034c..e7cdff9 100644[m
+Binary files a/DIM-1/entities/r.1.-1.mca and b/DIM-1/entities/r.1.-1.mca differ
+[1mdiff --git a/DIM-1/entities/r.1.0.mca b/DIM-1/entities/r.1.0.mca[m
+[1mindex a10cdf6..7452d2a 100644[m
+Binary files a/DIM-1/entities/r.1.0.mca and b/DIM-1/entities/r.1.0.mca differ
+[1mdiff --git a/DIM-1/poi/r.-1.1.mca b/DIM-1/poi/r.-1.1.mca[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/DIM-1/region/r.-1.-1.mca b/DIM-1/region/r.-1.-1.mca[m
+[1mindex 608b53d..dcb43eb 100644[m
+Binary files a/DIM-1/region/r.-1.-1.mca and b/DIM-1/region/r.-1.-1.mca differ
+[1mdiff --git a/DIM-1/region/r.-1.0.mca b/DIM-1/region/r.-1.0.mca[m
+[1mindex d82e957..6cda0d1 100644[m
+Binary files a/DIM-1/region/r.-1.0.mca and b/DIM-1/region/r.-1.0.mca differ
+[1mdiff --git a/DIM-1/region/r.-1.1.mca b/DIM-1/region/r.-1.1.mca[m
+[1mindex 0cf6bc1..5fcbf48 100644[m
+Binary files a/DIM-1/region/r.-1.1.mca and b/DIM-1/region/r.-1.1.mca differ
+[1mdiff --git a/DIM-1/region/r.0.-1.mca b/DIM-1/region/r.0.-1.mca[m
+[1mindex 9ea2170..2d15cf2 100644[m
+Binary files a/DIM-1/region/r.0.-1.mca and b/DIM-1/region/r.0.-1.mca differ
+[1mdiff --git a/DIM-1/region/r.0.0.mca b/DIM-1/region/r.0.0.mca[m
+[1mindex fa402ad..70f192a 100644[m
+Binary files a/DIM-1/region/r.0.0.mca and b/DIM-1/region/r.0.0.mca differ
+[1mdiff --git a/DIM-1/region/r.0.1.mca b/DIM-1/region/r.0.1.mca[m
+[1mindex 4aa928f..ad5d74e 100644[m
+Binary files a/DIM-1/region/r.0.1.mca and b/DIM-1/region/r.0.1.mca differ
+[1mdiff --git a/DIM-1/region/r.1.-1.mca b/DIM-1/region/r.1.-1.mca[m
+[1mindex 047b671..22c85e8 100644[m
+Binary files a/DIM-1/region/r.1.-1.mca and b/DIM-1/region/r.1.-1.mca differ
+[1mdiff --git a/DIM-1/region/r.1.0.mca b/DIM-1/region/r.1.0.mca[m
+[1mindex ae29da2..75775ad 100644[m
+Binary files a/DIM-1/region/r.1.0.mca and b/DIM-1/region/r.1.0.mca differ
+[1mdiff --git a/DIM-1/region/r.1.1.mca b/DIM-1/region/r.1.1.mca[m
+[1mindex b7bc633..1f02683 100644[m
+Binary files a/DIM-1/region/r.1.1.mca and b/DIM-1/region/r.1.1.mca differ
+[1mdiff --git a/DIM1/data/raids_end.dat b/DIM1/data/raids_end.dat[m
+[1mindex 351401a..899b4a4 100644[m
+Binary files a/DIM1/data/raids_end.dat and b/DIM1/data/raids_end.dat differ
+[1mdiff --git a/advancements/6087ed31-583a-45f1-8f0c-c79c4cda6785.json b/advancements/6087ed31-583a-45f1-8f0c-c79c4cda6785.json[m
+[1mindex a0214de..f9af0cd 100644[m
+[1m--- a/advancements/6087ed31-583a-45f1-8f0c-c79c4cda6785.json[m
+[1m+++ b/advancements/6087ed31-583a-45f1-8f0c-c79c4cda6785.json[m
+[36m@@ -884,7 +884,8 @@[m
+       "glow_berries": "2024-12-12 20:09:29 +0100",[m
+       "sweet_berries": "2024-12-10 12:19:02 +0100",[m
+       "cooked_beef": "2024-12-07 16:28:43 +0100",[m
+[31m-      "poisonous_potato": "2024-12-07 17:50:16 +0100"[m
+[32m+[m[32m      "poisonous_potato": "2024-12-07 17:50:16 +0100",[m
+[32m+[m[32m      "carrot": "2025-01-29 21:50:19 +0100"[m
+     },[m
+     "done": false[m
+   },[m
+[36m@@ -1026,7 +1027,8 @@[m
+   },[m
+   "minecraft:husbandry/complete_catalogue": {[m
+     "criteria": {[m
+[31m-      "minecraft:tabby": "2024-12-07 17:05:28 +0100"[m
+[32m+[m[32m      "minecraft:tabby": "2024-12-07 17:05:28 +0100",[m
+[32m+[m[32m      "minecraft:siamese": "2025-01-04 13:55:57 +0100"[m
+     },[m
+     "done": false[m
+   },[m
+[36m@@ -1044,9 +1046,11 @@[m
+       "minecraft:zombified_piglin": "2024-12-09 12:56:59 +0100",[m
+       "minecraft:witch": "2024-12-07 17:13:38 +0100",[m
+       "minecraft:wither_skeleton": "2024-12-10 15:10:46 +0100",[m
+[32m+[m[32m      "minecraft:bogged": "2025-01-05 10:57:17 +0100",[m
+       "minecraft:hoglin": "2024-12-09 18:58:41 +0100",[m
+       "minecraft:piglin": "2024-12-09 18:52:47 +0100",[m
+       "minecraft:vindicator": "2024-12-10 16:57:20 +0100",[m
+[32m+[m[32m      "minecraft:breeze": "2025-01-05 11:21:37 +0100",[m
+       "minecraft:enderman": "2024-12-10 23:38:49 +0100",[m
+       "minecraft:magma_cube": "2024-12-11 13:09:43 +0100",[m
+       "minecraft:spider": "2024-12-07 17:33:57 +0100",[m
+[36m@@ -4620,5 +4624,311 @@[m
+     },[m
+     "done": true[m
+   },[m
+[32m+[m[32m  "minecraft:nether/obtain_crying_obsidian": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "crying_obsidian": "2025-01-05 10:47:20 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/decorations/respawn_anchor": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_obsidian": "2025-01-05 10:47:20 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/building_blocks/waxed_copper_grate": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/building_blocks/waxed_chiseled_copper_from_waxed_copper_block_stonecutting": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/redstone/waxed_copper_bulb": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/building_blocks/waxed_cut_copper": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[32m+[m[32m  "minecraft:recipes/building_blocks/waxed_copper_grate_from_waxed_copper_block_stonecutting": {[m
+[32m+[m[32m    "criteria": {[m
+[32m+[m[32m      "has_waxed_copper_block": "2025-01-05 10:54:47 +0100"[m
+[32m+[m[32m    },[m
+[32m+[m[32m    "done": true[m
+[32m+[m[32m  },[m
+[3
